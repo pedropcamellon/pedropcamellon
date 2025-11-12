@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I'm looking to collaborate on AI projects, DevOps, Python, and related technologies
 - 📫 You can reach me at [pedropcamellon@gmail.com](mailto:pedropcamellon@gmail.com)
 
-### If you would like to support my professional growth, you can use any of the below platforms
+**If you would like to support my professional growth, you can use any of the following platforms:**
 
 [![Buy me a coffee](buymeacoffee.png)](https://www.buymeacoffee.com/pedropcamellon "Buy me a coffee")
+
 
